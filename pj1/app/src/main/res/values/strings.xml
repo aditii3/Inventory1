@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="name">Name of product</string>
+    <string name="type">Type of product</string>
+    <string name="price">Product price</string>
+    <string name="supplier_name">Name of supplier</string>
+    <string name="supplier_phone_no">Supplier phone no.</string>
+    <string name="quantity">Quantity</string>
+    <string name="currently">Currently %1d items in DB</string>
+    <string name="items"> items in DB</string>
+    <string name="req">Required Field</string>
+    <string name="add">Add product</string>
+    <string name="success">Successfully inserted</string>
+    <string name="failure">Error inserting data</string>
+</resources>
